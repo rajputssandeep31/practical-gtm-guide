@@ -4,7 +4,7 @@ A detailed workbook for bringing a B2B SaaS offer to paying customers. It connec
 
 ## Download the template
 
-- [Editable Word template](practical-gtm-template.docx)
+- [Editable Word template](https://github.com/rajputssandeep31/practical-gtm-guide/raw/refs/heads/main/practical-gtm-template.docx)
 - [Read the full guide on GitHub](GTM-GUIDE.md)
 
 Download the Word file and complete your own copy. Replace the fictional example and bracketed prompts with evidence from your product. The workbook ends with a one-page GTM brief for a launch review.

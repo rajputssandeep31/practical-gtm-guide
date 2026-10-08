@@ -2,11 +2,11 @@
 
 A workbook for choosing a market and bringing a B2B SaaS product to paying customers
 
-Maintained by Sandeep Singh Rajput. First edition prepared with AI assistance. First edition, October 2026.
+Maintained by Sandeep Singh Rajput. Edition 1.1 prepared with AI assistance. Updated 8 October 2026.
 
 ## How to use it
 
-Use this workbook to make the commercial and product decisions behind a launch. Work from a specific customer problem through the offer, buying process, first value and rollout. The final output is a one page GTM brief supported by evidence, owners and explicit launch gates.
+Use this workbook to make the commercial and product decisions behind a launch, then turn those decisions into an activity plan. Work from a specific customer problem through the offer, buying process, first value and rollout. The outputs are an execution plan and a one page GTM brief supported by evidence, owners and explicit launch gates.
 
 This edition is designed for a new B2B SaaS product or a material new offer. It includes self serve and sales assisted choices. For a consumer product, replace account level measures, procurement steps and buyer roles with the relevant household or individual journey.
 
@@ -642,7 +642,167 @@ Your response:
 
 Record one decision for each review: continue, change, pause or stop. If a gate fails, revise the dependent work and communicate the changed promise rather than completing activities against an obsolete plan.
 
-## 13 One page GTM brief
+## 13 GTM activities and execution plan
+
+Translate the choices in Sections 1 to 12 into work that someone can deliver. Plan customer validation, product marketing assets, demand generation, sales and partner preparation, onboarding and commercial follow up. For every activity, specify the customer or internal audience, the output, one accountable owner, a due date, dependencies, effort or budget, and evidence of completion.
+
+Work backward from the next release gate. Start with activities that resolve a critical uncertainty or unblock the buying path. A webinar needs an accurate offer, a demonstrated workflow, a tested registration route and capacity to handle qualified evaluations. Delay promotion when those dependencies are unresolved. Use separate owners for approval and execution when needed.
+
+The following plan applies to the fictional vendor intake product. Day 1 is the start of its 90 day planning period; the ranges are illustrative work windows, not promised launch dates. Move a dependent activity when a gate slips. The initial acquisition test is one focused webinar with targeted invitations and follow up. Paid acquisition and a broad partner campaign are deferred until adoption and delivery economics justify them.
+
+### Plan the work
+
+**Next gate and audience**
+
+[Gate to reach, eligible customer segment and exact evaluation offer.]
+
+Your response:
+
+**Work to produce**
+
+[Required evidence, customer facing assets, internal enablement and onboarding tasks; link each to its decision section.]
+
+Your response:
+
+**Owners and approvals**
+
+[One accountable owner per activity, contributors and who approves the output.]
+
+Your response:
+
+**Sequence and capacity**
+
+[Dependencies, start and due dates, staff hours, spend cap and available evaluation slots.]
+
+Your response:
+
+**Completion and outcome**
+
+[Observable acceptance condition, output link, outcome measure and observation window.]
+
+Your response:
+
+**Weekly operating review**
+
+[Review owner and date, blocked work, evidence needed, and whether to continue, revise or stop.]
+
+Your response:
+
+### Activity plan before launch
+
+Illustrative days 1 to 20
+
+Establish an offer the chosen segment can evaluate, then prepare the assets and people needed for one acquisition test.
+
+Worked example only. Owners and timing are proposed roles and work windows for the fictional product. Activities depend on the preceding launch gate.
+
+| Activity and output | Owner and timing | Dependencies and completion |
+| --- | --- | --- |
+| A1 Validate the adoption constraint<br>Produce an evidence register and account fit rules. See Sections 2 and 3. | PM<br>Days 1 to 7 | Dependency: candidate segment and workflow hypothesis.<br>Done: record recent workflow evidence, integration requirements and competing explanations; name unresolved assumptions. |
+| A2 Define the evaluation offer<br>Produce scope, package, price hypothesis and qualification questions. See Sections 4 and 6. | PM with sales<br>Days 6 to 10 | Dependency: A1.<br>Done: exclusions, sponsor, buyer review steps, service effort and decision date are explicit; a seller can qualify an account. |
+| A3 Build the core launch assets<br>Produce a landing page, product one pager, pricing FAQ and evaluation request form. See Sections 5 and 7. | Product marketing<br>Days 9 to 15 | Dependency: A2 and approved claims.<br>Done: intended buyer understands the offer and next step; form submission reaches a named owner; unsupported claims removed. |
+| A4 Rehearse selling and delivery<br>Produce a demo, objection responses, setup guide and escalation route. See Sections 8 to 10. | Sales lead with PM and customer success<br>Days 11 to 17 | Dependency: A2 and working standard flow.<br>Done: rehearse qualification, a real request, reviewer decision and failed demo recovery; verify delivery capacity. |
+| A5 Instrument the journey<br>Produce event definitions, account mapping and a funnel report. See Section 11. | Analytics owner<br>Days 11 to 18 | Dependency: agreed evaluation and activation definitions.<br>Done: a test account follows form, qualification, setup and decision events; duplicate users and sample requests are handled. |
+| A6 Prepare the webinar test<br>Produce a workflow walkthrough, invitation copy, registration page and follow up plan. See Section 7. | Demand generation<br>Days 15 to 20 | Dependency: A3 to A5 and evaluation capacity.<br>Done: audience access is evidenced; registration and reminders work; owner, staff effort and spend cap are agreed. |
+
+**Gate to the next stage**
+
+Approve the evaluation offer only after the team has evidence for the segment choice, can demonstrate the promised workflow, and has tested the handoff into an evaluation. Asset production does not establish demand.
+
+### Activity plan during launch
+
+Illustrative days 21 to 45
+
+Run a limited acquisition and evaluation cohort. Trace each interested account into qualification and first live value.
+
+Worked example only. Owners and timing are proposed roles and work windows for the fictional product. Activities depend on the preceding launch gate.
+
+| Activity and output | Owner and timing | Dependencies and completion |
+| --- | --- | --- |
+| A7 Release approved communications<br>Publish the offer page, send targeted invitations and brief the internal team. See Sections 5 and 7. | Product marketing<br>Days 21 to 23 | Dependency: prelaunch gate and A3, A4, A6.<br>Done: offer, exclusions and call to action agree across channels; request routing and support coverage remain available. |
+| A8 Run the focused webinar<br>Demonstrate document submission, approval routing and the next evaluation step. | Demand generation with PM<br>Days 24 to 27 | Dependency: A6 and working demonstration.<br>Done: capture account level attendance and requests; separate learning interest from a commitment to evaluate. |
+| A9 Qualify and follow up<br>Use the fit rules, record buyer roles and agree an evaluation decision date. | Sales<br>Days 25 to 32 | Dependency: A7 or A8 account interest.<br>Done: each request has an owner and disposition; unsuitable integration needs are deferred; eligible accounts have a sponsor and scope. |
+| A10 Configure and onboard<br>Provide the routing setup session and run a first eligible live request. See Section 8. | Customer success<br>Days 28 to 42 | Dependency: A9, permissions, reviewer and customer inputs.<br>Done: a qualifying request reaches a recorded decision; log waiting time, setup effort and unresolved blockers. |
+| A11 Prepare a scoped partner handoff<br>Rehearse configuration responsibilities using the sample workflow. See Section 9. | Partner lead<br>Days 30 to 40 if a partner is involved | Dependency: partner responsibilities and implementation scope agreed.<br>Done: referral, setup and escalation owners can complete the handoff; omit this work if delivery is direct. |
+| A12 Review the cohort each week<br>Produce an account status report and an updated activity register. | PM with sales and customer success<br>Days 28, 35 and 42 | Dependency: A5 and current account records.<br>Done: distinguish unfinished evaluations from failures; assign blocked work; decide whether to continue, adjust or pause. |
+
+**Gate to the next stage**
+
+A named launch owner decides whether the next cohort can start. Hold invitations if evaluation capacity is full, the standard workflow fails, or billing and access requirements are unresolved.
+
+### Activity plan after launch
+
+Illustrative days 46 to 90
+
+Convert completed evaluations, learn why accounts stalled and decide whether a wider launch is justified.
+
+Worked example only. Owners and timing are proposed roles and work windows for the fictional product. Activities depend on the preceding launch gate.
+
+| Activity and output | Owner and timing | Dependencies and completion |
+| --- | --- | --- |
+| A13 Complete buying follow up<br>Review evaluation evidence with the sponsor and budget owner; record paid, declined or pending status. | Sales<br>Days 46 to 60 or the agreed decision date | Dependency: agreed evaluation outcome and buyer approval path.<br>Done: terms, billing and handoff are confirmed for paid accounts; pending decisions keep a reason and next date. |
+| A14 Review lost and stalled accounts<br>Produce a dated decision log of objections, blockers and alternative explanations. | PM with sales<br>Days 46 to 65 | Dependency: A9 to A13 records and direct feedback where available.<br>Done: distinguish poor fit, integration needs, missing proof and budget timing; avoid treating every loss as a feature request. |
+| A15 Follow repeat use and support<br>Review recurring requests, unused accounts and service effort. See Sections 8 and 11. | Customer success<br>Days 46 to 90 | Dependency: first live value and an agreed follow up window.<br>Done: record repeated use or its absence, unresolved issues and staff hours; name the next intervention and owner. |
+| A16 Revise assets and enablement<br>Update offer copy, FAQs, qualification rules and the demo when evidence changes. | Product marketing with PM<br>Days 60 to 75 | Dependency: A14 and A15 findings.<br>Done: replace changed claims in every live asset; brief sales and delivery; record the version and approver. |
+| A17 Decide the next launch investment<br>Produce a cohort review and a revised activity plan. See Sections 6, 11 and 12. | GTM owner<br>By day 90 | Dependency: mature outcome data and delivery costs.<br>Done: compare paid adoption, setup effort and support capacity with the declared decision rule; approve, revise or stop further spend. |
+
+**Gate to the next stage**
+
+Scale only after the defined customer outcome, paid demand and delivery effort support expansion. An inconclusive small cohort should lead to another scoped test, with a recorded budget and capacity limit.
+
+### Reusable GTM activity record
+
+Duplicate this record for each activity. Use unique IDs and link predecessors. Replace roles with named owners before execution.
+
+**Activity and decision**
+
+[ID, action, purpose, audience and supporting GTM section.]
+
+Your response:
+
+**Output and location**
+
+[Specific deliverable and link to the working or finished asset.]
+
+Your response:
+
+**Owner and approver**
+
+[One accountable owner, contributors and required approver.]
+
+Your response:
+
+**Timing and dependencies**
+
+[Start, due date, predecessor IDs and condition that permits work to begin.]
+
+Your response:
+
+**Resources and completion**
+
+[Staff hours, spend cap and test or evidence required to accept the output.]
+
+Your response:
+
+**Outcome and next review**
+
+[Measure, eligible accounts, observation window, review date and continue or stop rule.]
+
+Your response:
+
+**Status and blocker**
+
+[Planned, in progress, blocked, ready for review, done or stopped; blocker, resolution owner and next date.]
+
+Your response:
+
+### Activity register and weekly review
+
+Keep the records together as an activity register. Review the next gate, overdue dependencies and unfinished customer handoffs each week. Mark an activity done when its output meets the acceptance condition and has a link. Review its customer or commercial outcome after the declared observation window.
+
+For example, A8 can be complete when the webinar ran and interested accounts were handed off. Its investment decision comes later, using qualified evaluations, paid adoption and delivery effort.
+
+## 14 One page GTM brief
 
 Fill this after the supporting sections. Link each decision to evidence.
 
@@ -697,6 +857,12 @@ Your response:
 **Rollout decision**
 
 [Current gate, evidence, go or hold decision, blocker and next review.]
+
+Your response:
+
+**Execution and next milestone**
+
+[Critical activities, owners, due dates, dependencies and next gate; link to the activity register.]
 
 Your response:
 
